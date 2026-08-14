@@ -269,11 +269,7 @@ and run the notebook sequentially.
 
 ## Links
 
-**GitHub Repository:**  
-https://github.com/Susenther/Predictive_maintenance_RUL_prediction
-
 **Google Colab:**  
 https://colab.research.google.com/drive/1uiVJC6g27gC8pG9Ndv_HqqMlN_4N3YDS?usp=sharing
 
 
-**Susenther E**
