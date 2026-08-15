@@ -270,6 +270,4 @@ and run the notebook sequentially.
 ## Links
 
 **Google Colab:**  
-https://colab.research.google.com/drive/1uiVJC6g27gC8pG9Ndv_HqqMlN_4N3YDS?usp=sharing
-
-
+https://colab.research.google.com/drive/1qrfJN7Mjr54UqrG32ZWuc5hDRWku3p5P?usp=sharing
